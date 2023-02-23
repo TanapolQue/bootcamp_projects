@@ -1,5 +1,8 @@
-# Bootcamp Projects
+# Bootcamp Batch 06
 Data science bootcamp with 'adToy' 
+
+My name is Tanapol Yootaworn.
+Nickname cue (Q)
 
 we learn 10 sprints during 4 month program.
 
