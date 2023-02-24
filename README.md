@@ -1,9 +1,19 @@
-# Bootcamp Batch 06
+# Data Science Bootcamp Batch 6 
+
 Data science bootcamp with 'adToy' 
+
+____________________________________
 
 My name is Tanapol Yootaworn. 
 
-Nickname cue (Q)
+Nickname cue (Q).
+
+I'm 23 years old.
+
+Education: Falcuty of Engineering at Chulalongkorn University
+
+I wanna be a Generalist xD. Love to learn new things.
+_____________________________________
 
 we learn 10 sprints during 4 month program.
 
