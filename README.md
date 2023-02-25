@@ -25,7 +25,7 @@ _**we learn 10 sprints during 4 month program**_
 - Essential Python for Data Analyst
 - Dashbroad
 
-_**My Project in Data Science Bootcamp**_
+_**My Projects in Data Science Bootcamp**_
 - project - [Pao Ying Chub Game with R](https://github.com/TanapolQue/bootcamp_projects/tree/main/project-paoyinchub_R)
 - project - [Chat Bot Order Pizza](https://github.com/TanapolQue/bootcamp_projects/tree/main/project-Chatbot_Pizza)
 - project - [ATM Class](https://github.com/TanapolQue/bootcamp_projects/blob/main/project-ATM_class/ATM_class.py)
