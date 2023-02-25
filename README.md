@@ -26,5 +26,8 @@ we learn 10 sprints during 4 month program.
 - Essential Python for Data Analyst
 - Dashbroad
 
+My Project in Data Science Bootcamp
+[a link]
+
 Badges:
 
