@@ -8,8 +8,6 @@ My name is Tanapol Yootaworn.
 
 Nickname cue (Q).
 
-I'm 23 years old.
-
 Education: Falcuty of Engineering at Chulalongkorn University
 
 I wanna be a Generalist xD. Love to learn new things.
