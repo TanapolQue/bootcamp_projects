@@ -1,6 +1,4 @@
-# homework 02
 # chatbot (PaoYingChub)
-
 
 #Intro the game
 print("Welcome to Pao Ying Chub Game!")
@@ -95,10 +93,4 @@ if (user_opt != "q") {
   break
 }
 }
-
-  
-
-
-
-
 
