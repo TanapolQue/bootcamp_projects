@@ -1,6 +1,6 @@
 # Data Science Bootcamp Batch 06 
 
-Data science bootcamp with 'adToy' 
+Data science bootcamp with DataRockies  
 
 ____________________________________
 
