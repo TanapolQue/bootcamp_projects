@@ -11,6 +11,8 @@ Nickname cue (Q).
 Education: Falcuty of Engineering at Chulalongkorn University
 
 I wanna be a Generalist xD. Love to learn new things.
+
+Linkedin: https://www.linkedin.com/in/tanapol-yootaworn-84a750259/
 _____________________________________
 
 _**we learn 10 sprints during 4 month program**_
