@@ -27,7 +27,8 @@ we learn 10 sprints during 4 month program.
 - Dashbroad
 
 My Project in Data Science Bootcamp
-[a link]
+- project- pao yin chub game with R [here] 
+
 
 Badges:
 
