@@ -1,6 +1,6 @@
 # Data Science Bootcamp Batch 06 
 
-Data science bootcamp with DataRockies  
+Data science bootcamp with [DataRockies](https://datarockie.com/)  
 
 
 My name is Tanapol Yootaworn. 
@@ -9,11 +9,11 @@ Nickname cue (Q).
 
 Education: Falcuty of Engineering at Chulalongkorn University
 
-I wanna be a Generalist xD. Love to learn new things.
+I wanna be a Generalist 🐤 😶. Love to learn new things.
 
 Linkedin: https://www.linkedin.com/in/tanapol-yootaworn-84a750259/
 
-## All our Course
+## All our Course 📃
 
 _**we learn 10 sprints during 4 month program**_
 - Spreadsheets 
@@ -27,7 +27,7 @@ _**we learn 10 sprints during 4 month program**_
 - Essential Python for Data Analyst
 - Dashbroad
 
-## All my projects
+## All my projects 💻
 
 _**My Projects in Data Science Bootcamp**_
 - project - [Pao Ying Chub Game with R](https://github.com/TanapolQue/bootcamp_projects/tree/main/project-paoyinchub_R)
