@@ -2,7 +2,6 @@
 
 Data science bootcamp with DataRockies  
 
-____________________________________
 
 My name is Tanapol Yootaworn. 
 
@@ -13,7 +12,8 @@ Education: Falcuty of Engineering at Chulalongkorn University
 I wanna be a Generalist xD. Love to learn new things.
 
 Linkedin: https://www.linkedin.com/in/tanapol-yootaworn-84a750259/
-_____________________________________
+
+## All our Course
 
 _**we learn 10 sprints during 4 month program**_
 - Spreadsheets 
@@ -26,6 +26,8 @@ _**we learn 10 sprints during 4 month program**_
 - Intro to Python
 - Essential Python for Data Analyst
 - Dashbroad
+
+## All my projects
 
 _**My Projects in Data Science Bootcamp**_
 - project - [Pao Ying Chub Game with R](https://github.com/TanapolQue/bootcamp_projects/tree/main/project-paoyinchub_R)
